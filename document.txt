@@ -1,0 +1,12 @@
+1 1 1 c1t1d1tag1,c1t1d1tag2,sameTag t1d1.txt
+2 1 1 c1t1d2tag1,c1t1d2tag2,c1t1d2tag3 t1d2.txt
+3 2 1 c2t1d3tag1,c2t1d3tag2,c2t1d3tag3 t1d3.txt
+4 3 1 c3t1sameTag1,c3t1sameTag2,c3t1sameTag3 same.txt
+5 4 2 c4t2d1tag1,c4t2d1tag2,c4t2d1tag3 t2d1.txt
+6 5 2 c5t2d2tag1,c5t2d2tag2,sameTag t2d2.txt 
+7 4 2 c4t2d2tag1,c4t2d2tag2,sameTag t2d3.txt
+8 5 2 c5t2sameTag1,c5t2sameTag2 same.txt
+9 2 3 c2t3d1tag1,c2t3d1tag2,c2t3d1tag3 t3d1.txt
+10 2 3 c2t3d2tag1,c2t3d2tag2,sameTag t3d2.txt 
+11 1 3 c1t3d2tag1,c1t3d2tag2,c4t3d2tag3 t3d3.txt
+12 3 3 c3t3sameTag1,c3t3sameTag2,sameTag same.txt
